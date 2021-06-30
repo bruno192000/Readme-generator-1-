@@ -25,6 +25,7 @@
   ## Usage
   Just type "node index.js" in your terminal. After that, write the information asked by the prompts.
   You can check this video if you need help. <a href = "https://drive.google.com/file/d/13xr4da3LycKXjduu7N7RygQvxN-jPtsp/view"> HERE!</a>
+  <img src="./2021-06-30 (1).png" alt = "failed to load">
   
   ## Contribution
    This generator is made to help you create you read me easy and fast just in minutes. Forks and copy is completly free.
